@@ -18,7 +18,7 @@
 - 📫 How to reach me **maverick-rh@gmail.com**
 
 - ⚡ Fun fact **I’m a programmer by day and a Valorant master by night!**
-<img src="https://videos.pexels.com/video-files/2306150/2306150-hd_1920_1080_30fps.mp4" alt="">
+<img src="https://i.gifer.com/9cIT.gif" alt="">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
