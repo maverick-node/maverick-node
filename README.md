@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maverick-node)](https://github.com/maverick-node/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maverick-node&theme=onedark)](https://github.com/mavaerick-node/-Github-Profile-Trophy)
 
 
 - 🔭 I’m currently working on **Groupie-Tracker**
