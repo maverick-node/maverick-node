@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maverick-rh</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick-rh&label=Profile%20views&color=0e75b6&style=flat" alt="maverick-rh" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maverick-rh" alt="maverick-rh" /></a> </p>
 
