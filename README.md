@@ -4,8 +4,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maverick-node&theme=onedark)](https://github.com/mavaerick-node/-Github-Profile-Trophy)
 
- ##  🚀 Random Quotes
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - 🔭 I’m currently working on **Groupie-Tracker**
 
@@ -18,6 +16,9 @@
 - 📫 How to reach me **maverick-rh@gmail.com**
 
 - ⚡ Fun fact **I’m a programmer by day and a Valorant master by night!**
+
+ ##  🚀 Random Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 <img src="https://i.gifer.com/9cIT.gif" alt="">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
