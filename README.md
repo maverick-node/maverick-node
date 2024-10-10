@@ -18,7 +18,7 @@
 - 📫 How to reach me **maverick-rh@gmail.com**
 
 - ⚡ Fun fact **I’m a programmer by day and a Valorant master by night!**
-![Alt text](https://commons.wikimedia.org/wiki/File:Programming.jpg)
+![Alt text]([https://commons.wikimedia.org/wiki/File:Programming.jpg](https://corneroftheroom.tumblr.com/post/654258973977067520/credits-pixel-jeff))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
