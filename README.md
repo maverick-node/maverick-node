@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maverick-node&theme=onedark)](https://github.com/mavaerick-node/-Github-Profile-Trophy)
 
- #Random #Quotes
+ ## Random Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - 🔭 I’m currently working on **Groupie-Tracker**
