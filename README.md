@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maverick-rh</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate developer from Morocco</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maverick-node&theme=onedark)](https://github.com/mavaerick-node/-Github-Profile-Trophy)
