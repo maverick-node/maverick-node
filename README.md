@@ -29,6 +29,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maverick-node&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maverick-node&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maverick-node&theme=jolly)](https://git.io/streak-stats)
 
