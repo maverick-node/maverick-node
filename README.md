@@ -28,6 +28,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maverick-node&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-node&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-node&show_progress=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maverick-node&theme=jolly)](https://git.io/streak-stats)
