@@ -28,6 +28,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maverick-node&show_icons=true&theme=radical)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/maverick-node?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maverick-node)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maverick-node&theme=jolly)](https://git.io/streak-stats)
