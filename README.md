@@ -29,7 +29,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maverick-node&show_icons=true&theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maverick-node&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maverick-node&theme=jolly)](https://git.io/streak-stats)
