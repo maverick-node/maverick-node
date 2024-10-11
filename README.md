@@ -30,4 +30,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maverick-node&" alt="maverick-rh" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maverick-node&theme=jolly)](https://git.io/streak-stats)
