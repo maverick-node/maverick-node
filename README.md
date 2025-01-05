@@ -10,7 +10,7 @@
 
 - 🌱 Currently learning **: Go (Golang)**
 
-- 👯 I’m looking to collaborate on **Lem-in project**
+- 👯 I’m looking to collaborate on **Make-Your-Game project**
 
 - 🤝 I’m looking for help with **JavaScript implementation**
 
