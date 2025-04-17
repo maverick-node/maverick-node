@@ -6,11 +6,11 @@
 
  ##  🚀 Random Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-- 🔭 I’m currently working on **Forum**
+- 🔭 I’m currently working on **GraphQl**
 
 - 🌱 Currently learning **: Go (Golang)**
 
-- 👯 I’m looking to collaborate on **Make-Your-Game project**
+- 👯 I’m looking to collaborate on **Social-Network**
 
 - 🤝 I’m looking for help with **JavaScript implementation**
 
