@@ -6,13 +6,13 @@
 
  ##  🚀 Random Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-- 🔭 I’m currently working on **GraphQl**
+- 🔭 I’m currently working on **Bomberman-dom**
 
 - 🌱 Currently learning **: Go (Golang)**
 
-- 👯 I’m looking to collaborate on **Social-Network**
+- 👯 I’m looking to collaborate on **0-Shell**
 
-- 🤝 I’m looking for help with **JavaScript implementation**
+- 🤝 I’m looking for help with **Rust**
 
 - 📫 How to reach me **maverick-rh@gmail.com**
 
