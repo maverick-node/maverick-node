@@ -8,7 +8,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 - 🔭 I’m currently working on **Bomberman-dom**
 
-- 🌱 Currently learning **: Go (Golang)**
+- 🌱 Currently learning **: RS (Rust)**
 
 - 👯 I’m looking to collaborate on **0-Shell**
 
