@@ -8,11 +8,11 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 - 🔭 I’m currently passing piscine **Rust**
 
-- 🌱 Currently learning **: Spring-Boot **
+- 🌱 Currently learning **Spring-Boot **
 
-- 👯 I’m looking to collaborate on **0-Shell**
+- 👯 I’m looking to collaborate on **Localserver**
 
-- 🤝 I’m looking for help with **Rust**
+- 🤝 I’m looking for help with **Spring-Boot**
 
 - 📫 How to reach me **maverick-rh@gmail.com**
 
