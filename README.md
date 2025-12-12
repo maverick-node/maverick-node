@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Morocco</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maverick-node&theme=onedark)](https://github.com/mavaerick-node/-Github-Profile-Trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maverick-node&theme=onedark)](https://github.com/maverick-node)
 
  ##  🚀 Random Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
